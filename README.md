@@ -1,5 +1,8 @@
 # 🐱🐶 Image Classification App
 
+![CleanShot 16-04-2024 at 19 38 22@2x](https://github.com/WHATDOESTHEFOXSAY2U/Image-classification/assets/25818677/f379d29f-14f5-4692-a4b5-5f99c39826d7)
+
+
 This repository contains the code and documentation for an image classification app demonstrated in the following video. This app uses machine learning models to classify images into predefined categories.
 
 ## 🎥 Demo Video
